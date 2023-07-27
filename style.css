@@ -83,7 +83,7 @@ input[type="color"]::-moz-color-swatch{
     margin-top: 10px;
     border: 1px solid #020929;
     padding: 20px;
-    /* width: 930px; */
+    width: 1070px;
     height: 90vh;
 }
 
